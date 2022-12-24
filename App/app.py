@@ -7,8 +7,8 @@ NOTA = pd.read_csv('https://raw.githubusercontent.com/Deusdedit99/Exploratory-Da
 st.set_page_config('Análise Descritiva dos Dados',page_icon='📈',layout='wide')
 
 
-with open('https://raw.githubusercontent.com/Deusdedit99/Exploratory-Data-Analysis/main/App/style.css') as f:
-   st.markdown(f'<style>{f.read()}</style>',unsafe_allow_html=True)
+#with open('https://raw.githubusercontent.com/Deusdedit99/Exploratory-Data-Analysis/main/App/style.css') as f:
+   #st.markdown(f'<style>{f.read()}</style>',unsafe_allow_html=True)
 
 
 st.title('Análise Descritiva dos Dados :')
