@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
-NOTA = pd.read_csv('https://github.com/Deusdedit99/Exploratory-Data-Analysis/blob/main/Dados/NOTAS_CC.csv')
+NOTA = pd.read_csv('https://github.com/Deusdedit99/Exploratory-Data-Analysis/main/Dados/NOTAS_CC.csv')
 # Building our app---------------
 st.set_page_config('Análise Descritiva dos Dados',page_icon='📈',layout='wide')
 
