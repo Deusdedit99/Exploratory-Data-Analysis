@@ -25,7 +25,16 @@
 - Plotly `5.11.0` 
 
 ---
-### 4) 📚 Lições Aprendidas : 
+### 4) 🗂️ Como está divido esse repositório?
+Temos duas pastas:
+- A primeira chamada de *App*, onde nela contém 2 scripts que fará a manipulação dos dados e o outro executará o aplicativo;
+- A segunda chamada de *Dados*, onde está o arquivo contendo os dados necessários para usar no `app.py`;
+- O arquivo `README.md` ;
+- O arquivo `requirements.txt`, contendo as bibliotecas necessárias para executar o app.
+
+
+---
+### 5) 📚 Lições Aprendidas : 
 - Manipulação de dados : Como criar novas colunas, alterações pontuais nos dados, junção de dataframes;
 - Criação de fórmulas no LaTeX para usar no script;
 - Conhecimento de outras funções do Streamlit para adicionar no aplicativo;
