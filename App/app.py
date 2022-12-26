@@ -87,4 +87,5 @@ fig3 = px.bar(NOTA,x=NOTA['Resultado'],color=NOTA['Resultado'],title='Gráfico d
 st.plotly_chart(fig3,use_container_width=True)
 
 
-st.markdown('#### Análise e Construção do Relatório desenvolvida por Serena Moonlight 💜')
+st.markdown('---')
+st.markdown('##### Análise e Construção do Relatório desenvolvida por Det Teixeira 💜')
